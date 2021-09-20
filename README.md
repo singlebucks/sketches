@@ -5,7 +5,7 @@
 
 **[clock](https://singlebucks.github.io/sketches/clock.html)**
 
-**[tiranga](https://singlebucks.github.io/sketches/tiranga.HTML)**
+**[tiranga](https://singlebucks.github.io/sketches/tiranga.html)**
 
 
 
