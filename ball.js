@@ -1,8 +1,8 @@
 
 let x = 40;
 let y = 40;
-let dx = 2;
-let dy = 4;
+let dx = 3;
+let dy = 5;
 
 function setup() {
   createCanvas(400, 400);
