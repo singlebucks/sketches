@@ -17,9 +17,6 @@ function draw() {
   fill(25,0,100);
   // noFill();
   
-  x = x + dx;
-  y = y + dy;
-  
   ellipse(x,y,50,50);
   
   if(x >= 380 || x == 20) {
@@ -28,6 +25,8 @@ function draw() {
   if(y >= 380 || y == 20) {
     dy = -dy;
   }
-  
+   
+  x = x + dx;
+  y = y + dy;
   
 }
