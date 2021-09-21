@@ -1,6 +1,6 @@
 
 let x = 40;
-let y = 40;
+let y = 200;
 let dx = 3;
 let dy = 5;
 
